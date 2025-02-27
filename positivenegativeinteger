@@ -1,0 +1,9 @@
+l1=[-2,31,4,-7,58,-20,45,89,-70,-32]
+
+for i in l1:
+    if (i>0):
+      print (i)
+      continue
+    else:
+      continue
+      
